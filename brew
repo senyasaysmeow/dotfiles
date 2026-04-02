@@ -1,0 +1,2 @@
+brew install fish neovim lazygit fd fzf ast-grep wget luarocks node uv gh anomalyco/tap/opencode cmatrix cbonsai
+brew install --cask nikitabobko/tap/aerospace clearvpn the-unarchiver telegram discord zoom ghostty helium-browser iina transmission anki git-credential-manager
