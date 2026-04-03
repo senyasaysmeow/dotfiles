@@ -152,7 +152,7 @@ run = ['move-node-to-workspace 4']
     alt-equal = 'resize smart +50'
 
     alt-enter = ['exec-and-forget open /Applications/Ghostty.app', 'workspace 3'] # Ghostty workspace
-    alt-shift-enter = ['exec-and-forget open /Applications/Helium.app', 'workspace 1'] # Helium workspace
+    cmd-enter = ['exec-and-forget open /Applications/Helium.app', 'workspace 1'] # Helium workspace
     # See: https://nikitabobko.github.io/AeroSpace/commands#workspace
     alt-1 = 'workspace 1'
     alt-2 = 'workspace 2'
