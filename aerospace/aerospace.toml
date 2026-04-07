@@ -73,10 +73,9 @@ run = ['move-node-to-workspace 5']
     alt-minus = 'resize smart -50'
     alt-equal = 'resize smart +50'
 
-    alt-shift-s = 'exec-and-forget screencapture -i -c'
-
-    alt-enter = ['exec-and-forget open /Applications/Ghostty.app', 'workspace 3']
-    cmd-enter = ['exec-and-forget open /Applications/Helium.app', 'workspace 1']
+    alt-enter = ['exec-and-forget open -a ghostty', 'workspace 3']
+    cmd-enter = ['exec-and-forget open -a helium', 'workspace 1']
+    cmd-shift-x = ['exec-and-forget open -a finder']
 
     alt-1 = 'workspace 1'
     alt-2 = 'workspace 2'
