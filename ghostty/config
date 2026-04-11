@@ -1,4 +1,5 @@
-font-size = 18
-theme = dark:Rose Pine, light: Rose Pine Dawn
+font-size = 16
+theme = dark:Rose Pine, light:Rose Pine Dawn
 background-opacity = 0.89
 background-blur = true
+window-decoration = none
