@@ -33,20 +33,12 @@ on-mode-changed = []
     outer.right =      8
 
 [[on-window-detected]]
-if.app-name-regex-substring = 'Helium'
-run = ['move-node-to-workspace 1']
-
-[[on-window-detected]]
 if.app-name-regex-substring = 'Discord'
 run = ['move-node-to-workspace 2']
 
 [[on-window-detected]]
 if.app-name-regex-substring = 'Telegram'
 run = ['move-node-to-workspace 2']
-
-[[on-window-detected]]
-if.app-name-regex-substring = 'Ghostty'
-run = ['move-node-to-workspace 3']
 
 [mode.main.binding]
     alt-slash = 'layout tiles horizontal vertical'
@@ -65,8 +57,8 @@ run = ['move-node-to-workspace 3']
     alt-minus = 'resize smart -50'
     alt-equal = 'resize smart +50'
 
-    alt-enter = ['exec-and-forget open -a ghostty', 'workspace 3']
-    cmd-enter = ['exec-and-forget open -a helium', 'workspace 1']
+    alt-enter = ['exec-and-forget open -a ghostty']
+    cmd-enter = ['exec-and-forget open -a helium']
 
     alt-1 = 'workspace 1'
     alt-2 = 'workspace 2'
