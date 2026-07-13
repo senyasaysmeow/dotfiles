@@ -1,0 +1,3 @@
+# VERSION: 3.0
+SETUVAR --export EDITOR:nvim
+SETUVAR fish_user_paths:/Users/ilovelina/\x2eusagi/bin\x1e/opt/homebrew/bin
