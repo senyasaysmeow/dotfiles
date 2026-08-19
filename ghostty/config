@@ -1,10 +1,2 @@
 font-size = 16
-
-theme = light:Rose Pine Dawn, dark:Rose Pine
-
-background-opacity = 0.89
-background-blur = true
-
-macos-option-as-alt = true
-keybind = alt+left=unbind
-keybind = alt+right=unbind
+theme = Tokyonight
