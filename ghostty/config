@@ -1,7 +1,7 @@
 font-size = 18
 font-family = PlemolJP Console NF
 
-theme = Tokyonight Day
+theme = light:Tokyonight Day, dark:Tokyonight
 
 background-opacity = 0.89
 background-blur = macos-glass-regular
