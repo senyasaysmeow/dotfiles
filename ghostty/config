@@ -1,9 +1,8 @@
-font-size = 18
-font-family = PlemolJP Console NF
+font-size = 16
+font-family = Maple Mono NF CN
+font-style = Light
 
 theme = light:Tokyonight Day, dark:Tokyonight
-
-background-opacity = 0.89
 background-blur = macos-glass-regular
 
 macos-option-as-alt = left
