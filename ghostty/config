@@ -2,8 +2,8 @@ font-size = 16
 font-family = Maple Mono NF CN
 font-style = Light
 
-theme = light:Tokyonight Day, dark:Tokyonight
-background-blur = macos-glass-regular
+theme = light:Catppuccin Latte, dark:Catppuccin Mocha
+background-blur = macos-glass-clear
 
 macos-option-as-alt = left
 keybind = alt+left=unbind
